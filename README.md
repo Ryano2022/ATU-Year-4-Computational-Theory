@@ -1,13 +1,10 @@
 ﻿## Installation pre-requisites:
 
-- Python
-  - Can be downloaded from [python.org](https://www.python.org/downloads/)
-- Jupyter Notebook
-
-You can install Jupyter Notebook using pip:
+- **Python**, which can be downloaded from [python.org](https://www.python.org/downloads/)
+- **Jupyter Notebook**, which can be installed using *pip*: 
 
 ```bash
-pip install notebook
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -18,7 +15,7 @@ pip install notebook
 jupyter notebook
 ```
 
-2. Open `tasks.ipynb` in the Jupyter Notebook interface
+2. Open `tasks.ipynb` in the Jupyter Notebook interface.
 3. Run the cells to test the different functions.
 
 ## Task 1: Binary Representations
